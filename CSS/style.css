@@ -378,9 +378,10 @@ opacity: 1;
     margin-bottom: 30px;
     cursor: pointer;
     transition: background 0.4s ease;
+    font-family: 'Yeseva One'; 
   }
 
-  .slider__title-item:hover, .slider__title-item.active {
+  .slider__titles-item:hover, .slider__titles-item.active {
     color: #E3B873;
   }
 
